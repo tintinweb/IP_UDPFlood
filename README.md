@@ -3,7 +3,7 @@ IP_UDPFlood
 
 General purpose IP src/dst network flooder
 
-Dependencies: ![SimpleOptparse](https://github.com/tintinweb/LegacyOptparse/ "SimpleOptparse repo"), ![ipaddr](http://code.google.com/p/ipaddr-py/ ipaddr")  
+Dependencies: [SimpleOptparse](https://github.com/tintinweb/LegacyOptparse/), [ipaddr](http://code.google.com/p/ipaddr-py/)  
 
 
 Example
